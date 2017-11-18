@@ -1,23 +1,51 @@
-.jumbotron {
-	background-color: #428bca
+#red {
+	color: red;
 }
 
-.jumbotron h1 {
-	color:white;
+#blue {
+	color: blue;
 }
 
-p, h1, h4 {
-	font-family: 'Roboto Slab', serif;
+#green {
+	color: green;
 }
 
-#funText {
-	color: black;
-	font-size: 24px;
-	font-family: 'Roboto Slab', serif;
+#bigtext {
+	font-size: 25px;
 }
 
-#box {
-	height: 100px;
-	width: 100px;
-	margin:auto;
+#smalltext {
+	font-size: 12px;
+}
+
+#center {
+	text-align: center;
+}
+
+#bold {
+	font-weight: bold;
+}
+
+#fontfamily {
+	font-family: arial;
+}
+
+#blue {
+	color: blue;
+}
+
+#blue {
+	color: blue;
+}
+
+#blue {
+	color: blue;
+}
+
+#blue {
+	color: blue;
+}
+
+#blue {
+	color: blue;
 }
